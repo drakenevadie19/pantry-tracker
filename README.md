@@ -1,8 +1,7 @@
 # pantry-tracker
 
 Technologies: 
-- Next.js
-- React
+- Next.js/React
 - Firebase
 - GCP
 - Vercel
